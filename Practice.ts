@@ -4,7 +4,7 @@ const plyer : number = 2
 
 const learning : boolean = true
 
-let devoloper = 'niloy'
+
 
 let username = 'niloy'
 

@@ -1,3 +1,5 @@
+import { authntication } from "./Litarel";
+
 export {};
 
 type User = {
@@ -33,4 +35,5 @@ const FullstackDevoloper: fullDevoloper = {
   age: 24,
   skills: ["html", "react", "js", "css", "nextjs", "typescript"],
   experience: 4,
-};
+};authntication = 'jisan'
+
